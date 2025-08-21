@@ -18,3 +18,4 @@ if __name__ == '__main__':
         print("Usage: python predict.py <path_to_image>")
     else:
         predict_gender(sys.argv[1])
+# Just testing perpose
